@@ -11,25 +11,25 @@ Saraswati,Computer Science,2024,120,90,4.80,CSE
 Saraswati,Civil,2024,120,40,3.20,Civil
 Saraswati,Mechanical,2024,120,50,3.50,Mechanical
 
-ACPCE,Computer Science,2023,35,35,3.56,CSE
-ACPCE,Electrical,2023,65,65,3.53,Electrical
-ACPCE,Electronics & Telecom,2023,15,15,3.62,ELEX-ENTC
-ACPCE,Information Technology,2023,41,41,3.95,IT
-ACPCE,Mechanical,2023,42,42,3.35,Mechanical
+ACPCE,Computer Science,2023,120,35,3.56,CSE
+ACPCE,Electrical,2023,120,65,3.53,Electrical
+ACPCE,Electronics & Telecom,2023,60,15,3.62,ELEX-ENTC
+ACPCE,Information Technology,2023,60,41,3.95,IT
+ACPCE,Mechanical,2023,60,42,3.35,Mechanical
 
-ACPCE,Artificial Intelligence,2024,14,14,3.96,AI/ML-DS
-ACPCE,Computer Science,2024,46,46,4.27,CSE
-ACPCE,Electrical,2024,74,74,3.85,Electrical
-ACPCE,Electronics & Telecom,2024,8,8,4.13,ELEX-ENTC
-ACPCE,Information Technology,2024,37,37,3.63,IT
-ACPCE,Mechanical,2024,17,17,3.47,Mechanical
+ACPCE,Artificial Intelligence,2024,60,14,3.96,AI/ML-DS
+ACPCE,Computer Science,2024,120,46,4.27,CSE
+ACPCE,Electrical,2024,120,74,3.85,Electrical
+ACPCE,Electronics & Telecom,2024,60,8,4.13,ELEX-ENTC
+ACPCE,Information Technology,2024,60,37,3.63,IT
+ACPCE,Mechanical,2024,60,17,3.47,Mechanical
 
-ACPCE,Artificial Intelligence,2025,15,15,4.41,AI/ML-DS
-ACPCE,Computer Science,2025,18,18,3.58,CSE
-ACPCE,Electrical,2025,39,39,3.58,Electrical
-ACPCE,Electronics & Telecom,2025,28,28,3.22,ELEX-ENTC
-ACPCE,Information Technology,2025,23,23,4.36,IT
-ACPCE,Mechanical,2025,18,18,2.89,Mechanical
+ACPCE,Artificial Intelligence,2025,60,15,4.41,AI/ML-DS
+ACPCE,Computer Science,2025,120,18,3.58,CSE
+ACPCE,Electrical,2025,120,39,3.58,Electrical
+ACPCE,Electronics & Telecom,2025,60,28,3.22,ELEX-ENTC
+ACPCE,Information Technology,2025,60,23,4.36,IT
+ACPCE,Mechanical,2025,60,18,2.89,Mechanical
 
 FCRCE,Computer Engineering,2025,134,82,6.46,CSE
 FCRCE,Mechanical Engineering,2025,56,19,6.46,Mechanical
