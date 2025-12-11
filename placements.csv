@@ -1,80 +1,87 @@
-College,Field,Year,Total_Students,Placed_Students,Avg_Package_LPA
-VESIT,Computer Science,2024,180,160,9.50
-VESIT,Information Technology,2024,120,105,8.50
-VESIT,Automation & Robotics,2024,60,45,6.00
-VESIT,Electronics & Telecom,2024,120,90,6.50
-VIT Mumbai,Computer Science,2024,180,150,6.50
-VIT Mumbai,Information Technology,2024,120,100,6.00
-VIT Mumbai,Biomedical,2024,60,30,4.50
-VIT Mumbai,Electronics,2024,120,80,5.00
-Saraswati,Computer Science,2024,120,90,4.80
-Saraswati,Civil,2024,120,40,3.20
-Saraswati,Mechanical,2024,120,50,3.50
-ACPCE,Computer Science,2023,35,35,3.56
-ACPCE,Electrical,2023,65,65,3.53
-ACPCE,Electronics & Telecom,2023,15,15,3.62
-ACPCE,Information Technology,2023,41,41,3.95
-ACPCE,Mechanical,2023,42,42,3.35
-ACPCE,Artificial Intelligence,2024,14,14,3.96
-ACPCE,Computer Science,2024,46,46,4.27
-ACPCE,Electrical,2024,74,74,3.85
-ACPCE,Electronics & Telecom,2024,8,8,4.13
-ACPCE,Information Technology,2024,37,37,3.63
-ACPCE,Mechanical,2024,17,17,3.47
-ACPCE,Artificial Intelligence,2025,15,15,4.41
-ACPCE,Computer Science,2025,18,18,3.58
-ACPCE,Electrical,2025,39,39,3.58
-ACPCE,Electronics & Telecom,2025,28,28,3.22
-ACPCE,Information Technology,2025,23,23,4.36
-ACPCE,Mechanical,2025,18,18,2.89
-FCRCE,Computer Engineering,2025,134,82,6.46
-FCRCE,Mechanical Engineering,2025,56,19,6.46
-FCRCE,Electronics & Computer Science,2025,64,31,6.46
-FCRCE,Artificial Intelligence & Data Science,2025,65,29,6.46
-FCRCE,Artificial Intelligence & Data Science,2024,68,33,6.69
-FCRCE,Computer Engineering,2024,140,77,6.69
-FCRCE,Electronics & Computer Science,2024,69,25,6.69
-FCRCE,Mechanical Engineering,2024,67,18,6.69
-FCRCE,Production Engineering,2023,52,13,6.30
-FCRCE,Computer Engineering,2023,140,99,6.30
-FCRCE,Electronics & Computer Science,2023,69,39,6.30
-FCRCE,Mechanical Engineering,2023,69,35,6.30
-VJTI,Civil,2023,80,71,8.40
-VJTI,Computer Science,2023,90,82,18.19
-VJTI,Electrical,2023,77,69,10.16
-VJTI,Electronics,2023,91,80,12.63
-VJTI,Electronics & Telecom,2023,84,75,14.05
-VJTI,Information Technology,2023,90,85,16.74
-VJTI,Mechanical,2023,88,66,9.09
-VJTI,Production,2023,80,63,9.53
-VJTI,Textile,2023,72,58,7.88
-VJTI,Civil,2024,76,33,7.00
-VJTI,Computer Science,2024,89,72,20.00
-VJTI,Electrical,2024,76,49,12.00
-VJTI,Electronics,2024,82,48,12.00
-VJTI,Electronics & Telecom,2024,84,47,15.00
-VJTI,Information Technology,2024,87,71,18.00
-VJTI,Mechanical,2024,77,45,9.00
-VJTI,Production,2024,74,19,9.00
-VJTI,Textile,2024,67,17,12.00
-VJTI,Computer Science,2025,88,77,16.35
-VJTI,Information Technology,2025,87,74,15.00
-VJTI,Electrical,2025,74,57,11.00
-VJTI,Electronics,2025,67,55,11.00
-VJTI,Electronics & Telecom,2025,82,63,11.00
-VJTI,Civil,2025,70,65,6.00
-VJTI,Mechanical,2025,79,73,7.00
-VJTI,Production,2025,74,45,8.00
-VJTI,Textile,2025,70,43,4.00
-SPIT,Overall,2025,529,433,13.78
-SPIT,Computer Engineering,2024,153,126,16.00
-SPIT,CSE (AIML),2024,79,60,15.58
-SPIT,CSE (Data Science),2024,80,72,14.29
-SPIT,Electronics & Telecom,2024,150,114,12.05
-SPIT,MCA,2024,67,61,7.65
-SPIT,Overall,2024,529,433,13.78
-SPIT,Computer Engineering,2023,79,67,19.04
-SPIT,Information Technology,2023,81,66,16.11
-SPIT,Electronics & Telecom,2023,81,62,14.20
-SPIT,Electronics,2023,83,62,10.52
-SPIT,MCA,2023,69,40,9.22
+College,Field,Year,Total_Students,Placed_Students,Avg_Package_LPA,Normalized_Branch
+VESIT,Computer Science,2024,180,160,9.50,CSE
+VESIT,Information Technology,2024,120,105,8.50,IT
+VESIT,Automation & Robotics,2024,60,45,6.00,Robotics
+VESIT,Electronics & Telecom,2024,120,90,6.50,ELEX-ENTC
+VIT Mumbai,Computer Science,2024,180,150,6.50,CSE
+VIT Mumbai,Information Technology,2024,120,100,6.00,IT
+VIT Mumbai,Biomedical,2024,60,30,4.50,Biomedical
+VIT Mumbai,Electronics,2024,120,80,5.00,ELEX-ENTC
+Saraswati,Computer Science,2024,120,90,4.80,CSE
+Saraswati,Civil,2024,120,40,3.20,Civil
+Saraswati,Mechanical,2024,120,50,3.50,Mechanical
+
+ACPCE,Computer Science,2023,35,35,3.56,CSE
+ACPCE,Electrical,2023,65,65,3.53,Electrical
+ACPCE,Electronics & Telecom,2023,15,15,3.62,ELEX-ENTC
+ACPCE,Information Technology,2023,41,41,3.95,IT
+ACPCE,Mechanical,2023,42,42,3.35,Mechanical
+
+ACPCE,Artificial Intelligence,2024,14,14,3.96,AI/ML-DS
+ACPCE,Computer Science,2024,46,46,4.27,CSE
+ACPCE,Electrical,2024,74,74,3.85,Electrical
+ACPCE,Electronics & Telecom,2024,8,8,4.13,ELEX-ENTC
+ACPCE,Information Technology,2024,37,37,3.63,IT
+ACPCE,Mechanical,2024,17,17,3.47,Mechanical
+
+ACPCE,Artificial Intelligence,2025,15,15,4.41,AI/ML-DS
+ACPCE,Computer Science,2025,18,18,3.58,CSE
+ACPCE,Electrical,2025,39,39,3.58,Electrical
+ACPCE,Electronics & Telecom,2025,28,28,3.22,ELEX-ENTC
+ACPCE,Information Technology,2025,23,23,4.36,IT
+ACPCE,Mechanical,2025,18,18,2.89,Mechanical
+
+FCRCE,Computer Engineering,2025,134,82,6.46,CSE
+FCRCE,Mechanical Engineering,2025,56,19,6.46,Mechanical
+FCRCE,Electronics & Computer Science,2025,64,31,6.46,ECS
+FCRCE,Artificial Intelligence & Data Science,2025,65,29,6.46,AI/ML-DS
+
+FCRCE,Artificial Intelligence & Data Science,2024,68,33,6.69,AI/ML-DS
+FCRCE,Computer Engineering,2024,140,77,6.69,CSE
+FCRCE,Electronics & Computer Science,2024,69,25,6.69,ECS
+FCRCE,Mechanical Engineering,2024,67,18,6.69,Mechanical
+
+FCRCE,Production Engineering,2023,52,13,6.30,Production
+FCRCE,Computer Engineering,2023,140,99,6.30,CSE
+FCRCE,Electronics & Computer Science,2023,69,39,6.30,ECS
+FCRCE,Mechanical Engineering,2023,69,35,6.30,Mechanical
+
+VJTI,Civil,2023,80,71,8.40,Civil
+VJTI,Computer Science,2023,90,82,18.19,CSE
+VJTI,Electrical,2023,77,69,10.16,Electrical
+VJTI,Electronics,2023,91,80,12.63,ELEX-ENTC
+VJTI,Electronics & Telecom,2023,84,75,14.05,ELEX-ENTC
+VJTI,Information Technology,2023,90,85,16.74,IT
+VJTI,Mechanical,2023,88,66,9.09,Mechanical
+VJTI,Production,2023,80,63,9.53,Production
+VJTI,Textile,2023,72,58,7.88,Textile
+
+VJTI,Civil,2024,76,33,7.00,Civil
+VJTI,Computer Science,2024,89,72,20.00,CSE
+VJTI,Electrical,2024,76,49,12.00,Electrical
+VJTI,Electronics,2024,82,48,12.00,ELEX-ENTC
+VJTI,Electronics & Telecom,2024,84,47,15.00,ELEX-ENTC
+VJTI,Information Technology,2024,87,71,18.00,IT
+VJTI,Mechanical,2024,77,45,9.00,Mechanical
+VJTI,Production,2024,74,19,9.00,Production
+VJTI,Textile,2024,67,17,12.00,Textile
+
+VJTI,Computer Science,2025,88,77,16.35,CSE
+VJTI,Information Technology,2025,87,74,15.00,IT
+VJTI,Electrical,2025,74,57,11.00,Electrical
+VJTI,Electronics,2025,67,55,11.00,ELEX-ENTC
+VJTI,Electronics & Telecom,2025,82,63,11.00,ELEX-ENTC
+VJTI,Civil,2025,70,65,6.00,Civil
+VJTI,Mechanical,2025,79,73,7.00,Mechanical
+VJTI,Production,2025,74,45,8.00,Production
+VJTI,Textile,2025,70,43,4.00,Textile
+
+SPIT,Computer Engineering,2024,153,126,16.00,CSE
+SPIT,CSE (AIML),2024,79,60,15.58,AI/ML-DS
+SPIT,CSE (Data Science),2024,80,72,14.29,AI/ML-DS
+SPIT,Electronics & Telecom,2024,150,114,12.05,ELEX-ENTC
+
+SPIT,Computer Engineering,2023,79,67,19.04,CSE
+SPIT,Information Technology,2023,81,66,16.11,IT
+SPIT,Electronics & Telecom,2023,81,62,14.20,ELEX-ENTC
+SPIT,Electronics,2023,83,62,10.52,ELEX-ENTC
